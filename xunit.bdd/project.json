@@ -1,5 +1,6 @@
 ﻿{
   "version": "2.2.0-beta",
+  "title": "xUnit BDD Extensions",
   "description": "Extends xUnit.Net with Behavior Driven Development style fixtures.",
   "authors": [ "chadly" ],
   "tags": [ "xunit", "bdd", "should", "extensions" ],
