@@ -1,0 +1,26 @@
+﻿{
+  "version": "2.2.0-beta",
+  "description": "Extends xUnit.Net with Behavior Driven Development style fixtures.",
+  "authors": [ "chad.lee" ],
+  "tags": [ "" ],
+  "projectUrl": "https://github.com/chadly/xUnit-BDD-Extensions",
+  "licenseUrl": "https://github.com/chadly/xUnit-BDD-Extensions/blob/master/LICENSE.txt",
+
+  "frameworks": {
+    "net452": { },
+    "dotnet5.4": {
+      "dependencies": {
+        "Microsoft.CSharp": "4.0.1-beta-23516",
+        "System.Collections": "4.0.11-beta-23516",
+        "System.Linq": "4.0.1-beta-23516",
+        "System.Runtime": "4.0.21-beta-23516",
+        "System.Threading": "4.0.11-beta-23516"
+      }
+    }
+  },
+
+  "dependencies": {
+    "xunit": "2.2.0-beta1-build3239",
+    "xunit.extensibility.core": "2.2.0-beta1-build3239"
+  }
+}
