@@ -4,7 +4,7 @@
   "authors": [ "chadly" ],
   "tags": [ "xunit", "bdd", "should", "extensions" ],
   "projectUrl": "https://github.com/chadly/xUnit-BDD-Extensions",
-  "licenseUrl": "https://github.com/chadly/xUnit-BDD-Extensions/blob/master/LICENSE.txt",
+  "licenseUrl": "https://github.com/chadly/xUnit-BDD-Extensions/blob/master/LICENSE",
 
   "frameworks": {
     "net452": {
