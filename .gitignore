@@ -1,6 +1,7 @@
 packages
 artifacts
 *.nupkg
+project.lock.json
 
 #################
 ## Visual Studio
