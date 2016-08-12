@@ -5,11 +5,11 @@ using Xunit.Sdk;
 
 namespace Xunit.Extensions
 {
-    public class ObservationTestCaseOrderer : ITestCaseOrderer
-    {
-        public IEnumerable<TTestCase> OrderTestCases<TTestCase>(IEnumerable<TTestCase> testCases) where TTestCase : ITestCase
-        {
-            return testCases;
-        }
-    }
+	public class ObservationTestCaseOrderer : ITestCaseOrderer
+	{
+		public IEnumerable<TTestCase> OrderTestCases<TTestCase>(IEnumerable<TTestCase> testCases) where TTestCase : ITestCase
+		{
+			return testCases;
+		}
+	}
 }

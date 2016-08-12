@@ -2,6 +2,6 @@
 
 namespace Xunit.Extensions
 {
-    [AttributeUsage(AttributeTargets.Method)]
-    public class ObservationAttribute : Attribute { }
+	[AttributeUsage(AttributeTargets.Method)]
+	public class ObservationAttribute : Attribute { }
 }
